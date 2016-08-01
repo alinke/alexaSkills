@@ -1,2 +1,2 @@
 # alexaSkills
-Alexa Skills
+Source code for some Alexa skills I wrote
