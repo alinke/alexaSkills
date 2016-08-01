@@ -1,0 +1,11 @@
+{
+  "intents": [
+    {
+      "intent": "StockIntent"
+    },
+
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
