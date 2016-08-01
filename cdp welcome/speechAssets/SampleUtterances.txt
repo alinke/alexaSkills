@@ -1,0 +1,25 @@
+ThankYouIntent thanks
+ThankYouIntent thank you
+ThankYouIntent goodbye
+ThankYouIntent later
+ThankYouIntent see you later
+SecurityIntent Security
+SecurityIntent What about Security
+SecurityIntent Tell me about Security
+SecurityIntent how do you handle security
+SecurityIntent how do you authenticate users
+PrivacyIntent Privacy
+PrivacyIntent What about Privacy
+PrivacyIntent Are you always streaming
+PrivacyIntent how do you handle privacy
+SalesIntent   sales
+SalesIntent how many echos have been sold
+SalesIntent how are your sales
+PushIntent   do you support push notifications
+PushIntent what about push notifications
+PushIntent push notifications
+BusinessApplicationsIntent What business applications are possible
+BusinessApplicationsIntent What about business applications
+BusinessApplicationsIntent what about Alexa in the enterprise
+BusinessApplicationsIntent how about business applications
+BusinessApplicationsIntent what business applications can be possible
