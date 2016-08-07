@@ -483,8 +483,8 @@ function handleRepeatRequest(intent, session, callback) {
 function handleGetHelpRequest(intent, session, callback) {
     // Do not edit the help dialogue. This has been created by the Alexa team to demonstrate best practices.
 
-    var speechOutput = "To start a new game at any time, say, start new game. "
-        + "To repeat the last element, say, repeat. "
+    var speechOutput = "To start a new game at any time, say, start new game"
+        + "To repeat the last eighties song, say, repeat. "
         + "Would you like to keep playing?",
         repromptText = "Try to get the right answer. "
         + "Would you like to keep playing?";
@@ -496,7 +496,7 @@ function handleGetHelpRequest(intent, session, callback) {
 function handleFinishSessionRequest(intent, session, callback) {
     // End the session with a custom closing statment when the user wants to quit the game
     callback(session.attributes,
-        buildSpeechletResponseWithoutCard("Thanks for playing Flash Cards!", "", true));
+        buildSpeechletResponseWithoutCard("Thanks for playing eighties bands!", "", true));
 }
 
 function isAnswerSlotValid(intent) {
